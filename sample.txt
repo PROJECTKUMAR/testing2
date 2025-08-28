@@ -1,2 +1,4 @@
 SAP stands for Systems, Applications and Products in Data Processing. It started as an ERP (Enterprise Resource Planning) suite and now offers solutions for intelligent spend management, people engagement, compliant contracting, connected logistics and customer conversation intelligence.
+SAP ABAP (Advanced Business Application Programming) is a high-level programming language developed by SAP SE, primarily used for developing and customizing applications within the SAP ecosystem. It supports both procedural and object-oriented programming paradigms, making it versatile for various types of application development.
 A FICO score is a type of credit score based on information in a borrower's credit report that lenders use to assess credit risk and determine whether to extend credit. The higher the FICO score, the more likely a borrower will repay their debts on time.
+
