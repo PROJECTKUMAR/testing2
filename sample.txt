@@ -6,5 +6,4 @@ A FICO score is a type of credit score based on information in a borrower's cred
 SAP ABAP (Advanced Business Application Programming) is a high-level programming language developed by SAP SE, primarily used for developing and customizing applications within the SAP ecosystem. It supports both procedural and object-oriented programming paradigms, making it versatile for various types of application development.
 
 SAP MM (Materials Management) is a crucial module within the SAP ERP (Enterprise Resource Planning) system. It focuses on managing an organization's procurement processes and the logistics of the supply chain. SAP MM helps companies optimize their material and logistics management procedures, ensuring effective and economical handling of items from acquisition to consumption.
-=======
->>>>>>> 200e626996f5924101112aa6c99414f36ca699cd
+
